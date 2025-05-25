@@ -1,0 +1,64 @@
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.exe
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.deps.json
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.runtimeconfig.json
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.dll
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.pdb
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.csproj.AssemblyReference.cache
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.AssemblyInfoInputs.cache
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.AssemblyInfo.cs
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets\msbuild.EstudiantesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EstudiantesAPI.props
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EstudiantesAPI.props
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EstudiantesAPI.props
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\scopedcss\bundle\EstudiantesAPI.styles.css
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\Estudian.96996619.Up2Date
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.dll
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\refint\EstudiantesAPI.dll
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.pdb
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.genruntimeconfig.cache
+C:\Users\Hiro\Documents\Trabajos\Fin Semestre\Otros\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\ref\EstudiantesAPI.dll
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.staticwebassets.endpoints.json
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.exe
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.deps.json
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.runtimeconfig.json
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.dll
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\EstudiantesAPI.pdb
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.csproj.AssemblyReference.cache
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.AssemblyInfoInputs.cache
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.AssemblyInfo.cs
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.csproj.CoreCompileInputs.cache
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\scopedcss\bundle\EstudiantesAPI.styles.css
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\Estudian.96996619.Up2Date
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.dll
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\refint\EstudiantesAPI.dll
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.pdb
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\EstudiantesAPI.genruntimeconfig.cache
+C:\Users\colin\Proyectos\UnitTesting\EstudiantesAPI\obj\Debug\net8.0\ref\EstudiantesAPI.dll
